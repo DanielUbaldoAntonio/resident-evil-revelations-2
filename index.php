@@ -13,10 +13,14 @@ $imgExt = (strpos($_SERVER['HTTP_ACCEPT'], 'image/webp') == true) ? "webp" : "pn
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="robots" content="noindex, nofollow">
-    <meta name="googlebot" content="noindex, nofollow">
+    <meta name="robots" content="noindex, follow">
+    <meta name="googlebot" content="noindex, follow">
     <title>Resident Evil Revelations 2 - Caixas, Desenhos, Dicas, Emblemas e Larvas</title>
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/img/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon-16x16.png">
     <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon">
+    <link rel="manifest" href="site.webmanifest">
     <link rel="stylesheet" href="assets/css/style-prefixed.min.css">
     <script src="assets/js/top-scripts.min.js"></script>
 </head>
