@@ -2915,6 +2915,7 @@ $imgExt = (strpos($_SERVER['HTTP_ACCEPT'], 'image/webp') == true) ? "webp" : "pn
             <ul>
                 <li>Limite de tempo</li>
                 <li>Sem reaparecimento</li>
+                <li>Inimigos explodem ao morrer</li>
             </ul>
             <li class="main-li">Nº de inimigos</li>
             <ul>
@@ -3124,6 +3125,7 @@ $imgExt = (strpos($_SERVER['HTTP_ACCEPT'], 'image/webp') == true) ? "webp" : "pn
                 <li>Revenants</li>
                 <li>Rottens</li>
                 <li>Slingers</li>
+                <li>Splashers</li>
             </ul>
         </ul>
         <figure class="responsive-image">
@@ -3163,6 +3165,7 @@ $imgExt = (strpos($_SERVER['HTTP_ACCEPT'], 'image/webp') == true) ? "webp" : "pn
                 <li>Ironheads</li>
                 <li>Orthus</li>
                 <li>Revenants</li>
+                <li>Splashers</li>
                 <li>Sploders</li>
             </ul>
         </ul>
@@ -3980,6 +3983,7 @@ $imgExt = (strpos($_SERVER['HTTP_ACCEPT'], 'image/webp') == true) ? "webp" : "pn
                 <li>Ironheads</li>
                 <li>Revenants</li>
                 <li>Rottens</li>
+                <li>Splashers</li>
                 <li>Sploders</li>
             </ul>
         </ul>
@@ -4019,6 +4023,7 @@ $imgExt = (strpos($_SERVER['HTTP_ACCEPT'], 'image/webp') == true) ? "webp" : "pn
                 <li>Revenants</li>
                 <li>Rottens</li>
                 <li>Slingers</li>
+                <li>Splashers</li>
             </ul>
         </ul>
         <figure class="responsive-image">
@@ -4133,6 +4138,7 @@ $imgExt = (strpos($_SERVER['HTTP_ACCEPT'], 'image/webp') == true) ? "webp" : "pn
                 <li>Orthus</li>
                 <li>Revenants</li>
                 <li>Rottens</li>
+                <li>Splashers</li>
             </ul>
         </ul>
         <figure class="responsive-image">
@@ -4175,6 +4181,7 @@ $imgExt = (strpos($_SERVER['HTTP_ACCEPT'], 'image/webp') == true) ? "webp" : "pn
                 <li>Orthus</li>
                 <li>Revenants</li>
                 <li>Rottens</li>
+                <li>Splashers</li>
             </ul>
         </ul>
         <figure class="responsive-image">
@@ -4213,6 +4220,7 @@ $imgExt = (strpos($_SERVER['HTTP_ACCEPT'], 'image/webp') == true) ? "webp" : "pn
             </ul>
             <li class="main-li">Inimigos comuns</li>
             <ul>
+                <li>Glasps</li>
                 <li>Hunters</li>
             </ul>
         </ul>
@@ -4366,6 +4374,7 @@ $imgExt = (strpos($_SERVER['HTTP_ACCEPT'], 'image/webp') == true) ? "webp" : "pn
                 <li>Glasps</li>
                 <li>Ironheads</li>
                 <li>Revenants</li>
+                <li>Splashers</li>
                 <li>Sploders</li>
             </ul>
         </ul>
@@ -4429,7 +4438,7 @@ $imgExt = (strpos($_SERVER['HTTP_ACCEPT'], 'image/webp') == true) ? "webp" : "pn
             </ul>
             <li class="main-li">Regras especiais</li>
             <ul>
-                <li>Não há</li>
+                <li>Inimigos explodem ao morrer</li>
             </ul>
             <li class="main-li">Nº de inimigos</li>
             <ul>
@@ -4597,6 +4606,7 @@ $imgExt = (strpos($_SERVER['HTTP_ACCEPT'], 'image/webp') == true) ? "webp" : "pn
             <ul>
                 <li>Revenants</li>
                 <li>Slingers</li>
+                <li>Splashers</li>
             </ul>
         </ul>
         <figure class="responsive-image">
