@@ -3358,6 +3358,7 @@ $imgExt = (strpos($_SERVER['HTTP_ACCEPT'], 'image/webp') == true) ? "webp" : "pn
                 <li>Afflicteds</li>
                 <li>Glasps</li>
                 <li>Revenants</li>
+                <li>Splashers</li>
             </ul>
         </ul>
         <figure class="responsive-image">
@@ -4094,8 +4095,8 @@ $imgExt = (strpos($_SERVER['HTTP_ACCEPT'], 'image/webp') == true) ? "webp" : "pn
             </ul>
             <li class="main-li">Chefe(s)</li>
             <ul>
-                <li>1 Dhurlga</li>
-                <li>2 Scagdeads</li>
+                <li>2 Dhurlgas</li>
+                <li>1 Scagdead</li>
             </ul>
             <li class="main-li">Inimigos comuns</li>
             <ul>
